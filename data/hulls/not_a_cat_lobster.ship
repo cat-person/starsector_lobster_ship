@@ -78,6 +78,17 @@
             ],
             "style": "MIDLINE",
             "width": 16
+        },
+        {
+            "angle": 180,
+            "contrailSize": 64,
+            "length": 64,
+            "location": [
+                -91,
+                -41
+            ],
+            "style": "MIDLINE",
+            "width": 16
         }
     ],
     "height": 240,
@@ -122,7 +133,7 @@
             "arc": 90,
             "id": "WS 007",
             "locations": [
-                75,
+                95,
                 0
             ],
             "mount": "TURRET",
