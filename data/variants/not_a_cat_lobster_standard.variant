@@ -12,39 +12,32 @@
         {
             "autofire": false,
             "mode": "LINKED",
-            "weapons": {"WS 001": "hurricane"}
-        },
-        {
-            "autofire": false,
-            "mode": "ALTERNATING",
             "weapons": {
-                "WS 010": "reaper",
-                "WS 011": "reaper",
-                "WS 012": "reaper"
-            }
-        },
-        {
-            "autofire": false,
-            "mode": "ALTERNATING",
-            "weapons": {
-                "WS 008": "sabotpod",
-                "WS 009": "sabotpod"
+                "WS 001": "mjolnir",
+                "WS 002": "mjolnir"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
-            "weapons": {"WS 002": "hveldriver"}
+            "weapons": {
+                "WS 007": "vulcan",
+            }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 003": "vulcan",
-                "WS 004": "vulcan",
+                "WS 003": "gravitonbeam",
+                "WS 004": "gravitonbeam",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
                 "WS 005": "vulcan",
                 "WS 006": "vulcan",
-                "WS 007": "vulcan"
             }
         }
     ]
