@@ -18,8 +18,8 @@
             "contrailSize": 64,
             "length": 64,
             "location": [
-                -108,
-                34
+                -106,
+                30
             ],
             "style": "MIDLINE",
             "width": 16
@@ -27,69 +27,26 @@
         {
             "angle": 180,
             "contrailSize": 64,
-            "length": 64,
-            "location": [
-                -111,
-                24
-            ],
-            "style": "MIDLINE",
-            "width": 16
-        },
-        {
-            "angle": 180,
-            "contrailSize": 64,
-            "length": 64,
+            "length": 80,
             "location": [
                 -112,
-                13
+                0
             ],
             "style": "MIDLINE",
-            "width": 16
+            "width": 48
         },
         {
             "angle": 180,
             "contrailSize": 64,
             "length": 64,
             "location": [
-                -112,
-                -2
+                -106,
+                -30
             ],
             "style": "MIDLINE",
             "width": 16
         },
-        {
-            "angle": 180,
-            "contrailSize": 64,
-            "length": 64,
-            "location": [
-                -111,
-                -14
-            ],
-            "style": "MIDLINE",
-            "width": 16
-        },
-        {
-            "angle": 180,
-            "contrailSize": 64,
-            "length": 64,
-            "location": [
-                -108,
-                -24
-            ],
-            "style": "MIDLINE",
-            "width": 16
-        },
-        {
-            "angle": 180,
-            "contrailSize": 64,
-            "length": 64,
-            "location": [
-                -91,
-                -41
-            ],
-            "style": "MIDLINE",
-            "width": 16
-        }
+
     ],
     "height": 240,
     "hullId": "not_a_cat_lobster",
@@ -133,7 +90,7 @@
             "arc": 90,
             "id": "WS 007",
             "locations": [
-                95,
+                97,
                 0
             ],
             "mount": "TURRET",
