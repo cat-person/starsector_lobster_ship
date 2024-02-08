@@ -7,10 +7,10 @@
     "builtInMods": ["fluxshunt"],
 
     "center": [
-        90,
-        120
+        75,
+        127
     ],
-    "collisionRadius": 155,
+    "collisionRadius": 150,
     "coversColor": "",
     "engineSlots": [
         {
@@ -18,8 +18,8 @@
             "contrailSize": 64,
             "length": 64,
             "location": [
-                -106,
-                30
+                -118,
+                21
             ],
             "style": "MIDLINE",
             "width": 16
@@ -29,7 +29,7 @@
             "contrailSize": 64,
             "length": 80,
             "location": [
-                -112,
+                -122,
                 0
             ],
             "style": "MIDLINE",
@@ -40,15 +40,15 @@
             "contrailSize": 64,
             "length": 64,
             "location": [
-                -106,
-                -30
+                -118    ,
+                -21
             ],
             "style": "MIDLINE",
             "width": 16
         },
 
     ],
-    "height": 240,
+    "height": 227,
     "hullId": "not_a_cat_lobster",
     "hullName": "Lobster",
     "hullSize": "CRUISER",
@@ -56,7 +56,7 @@
         1,
         0
     ],
-    "shieldRadius": 170,
+    "shieldRadius": 140,
     "spriteName": "graphics/ships/not_a_cat_lobster.png",
     "style": "MIDLINE",
     "viewOffset": 0,
@@ -66,8 +66,8 @@
             "arc": 6,
             "id": "WS 001",
             "locations": [
-                100,
-                36
+                76,
+                43
             ],
             "mount": "HARDPOINT",
             "size": "LARGE",
@@ -78,8 +78,8 @@
             "arc": 6,
             "id": "WS 002",
             "locations": [
-                100,
-                -36
+                76,
+                -43
             ],
             "mount": "HARDPOINT",
             "size": "LARGE",
@@ -90,7 +90,7 @@
             "arc": 90,
             "id": "WS 007",
             "locations": [
-                97,
+                86,
                 0
             ],
             "mount": "TURRET",
@@ -102,8 +102,8 @@
             "arc": 200,
             "id": "WS 003",
             "locations": [
-                25,
-                60
+                30,
+                51
             ],
             "mount": "TURRET",
             "size": "MEDIUM",
@@ -114,8 +114,8 @@
             "arc": 200,
             "id": "WS 004",
             "locations": [
-                25,
-                -60
+                30,
+                -51
             ],
             "mount": "TURRET",
             "size": "MEDIUM",
@@ -126,8 +126,8 @@
             "arc": 200,
             "id": "WS 005",
             "locations": [
-                -83,
-                20
+                -89,
+                31
             ],
             "mount": "TURRET",
             "size": "SMALL",
@@ -138,14 +138,14 @@
             "arc": 200,
             "id": "WS 006",
             "locations": [
-                -83,
-                -20
+                -89,
+                -31
             ],
             "mount": "TURRET",
             "size": "SMALL",
             "type": "BALLISTIC"
         },
     ],
-    "width": 180,
+    "width": 150,
     
 }
