@@ -1,5 +1,7 @@
 {
     "combatLarge": {
-        "not_a_cat_lobster_standard": 2
+        "not_a_cat_lobster_standard": 8,
+        "not_a_cat_lobster_p": 5,
+        "not_a_cat_lobster_carrier": 3
     }
 }
