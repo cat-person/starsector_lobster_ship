@@ -4,30 +4,28 @@
 	"descriptionId":"not_a_cat_lobster_p",
 	"hullName":"Lobster [P]",
 	"hullDesignation":"Cruiser",
-	"fleetPoints":20,
-	"ordnancePoints":130,
+	"ordnancePoints":100,
 	"descriptionPrefix":"Pirate Lobster",
 	"tags":["pirate_bp", "ind"],
 	"tech":"Pirate",
-	"builtInWings": [],
-	"fighterBays":0,
 	"spriteName":"graphics/ships/not_a_cat_lobster/p.png",
-	"baseValueMult":0.8,
-	"removeHints":[],
-	#"addHints":[],
-	"removeWeaponSlots":["WS 005", "WS 006"], 	# ids
-	"removeEngineSlots":[], 			# indices, as engine slots have no id in the .ship file
-	#"removeBuiltInMods":[], 			# hullmod ids
-	#"removeBuiltInWeapons":[], 			# weapon slot ids
-	"builtInMods":["ill_advised", "safetyoverrides"],
-	"builtInWeapons":{
-    },
-    "weaponSlotChanges":{
-		"WS 003":{
-			"type": "MISSILE"
+	"removeWeaponSlots":["WS 008", "WS 009"], 	# ids
+	"engineSlotChanges":{
+		"0":{"length": 80, "width":24, "style": "LOW_TECH"},
+		"4":{"length": 80, "width":24, "style": "LOW_TECH"},
+	},
+	"removeBuiltInMods":[fluxshunt],
+	"builtInMods":["safetyoverrides", "armoredweapons"],
+	"weaponSlotChanges":{
+		"WS 001":{
+			"type": "BALLISTIC"
 		},
 		"WS 004":{
 			"type": "MISSILE"
 		},
+		"WS 005":{
+			"type": "MISSILE"
+		},
 	},
+    
 }

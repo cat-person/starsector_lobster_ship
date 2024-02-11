@@ -2,38 +2,32 @@
 	"baseHullId":"not_a_cat_lobster",
 	"skinHullId":"not_a_cat_lobster_carrier",
 	"descriptionId":"not_a_cat_lobster_carrier",
-	"hullName":"Lobster [P]",
+	"hullName":"Lobster Carier",
 	"hullDesignation":"Cruiser",
-	"fleetPoints":30,
-	"ordnancePoints":160,
+	"systemId":"fortressshield",
+	"fleetPoints":24,
+	"ordnancePoints":120,
 	"descriptionPrefix":"Pirate Lobster",
-	"tags":["merc"],
+	"tags":["merc", "ind"],
 	"tech":"MIDLINE",
 	"builtInWings": [],
-	"fighterBays":0,
+	"fighterBays":2,
 	"spriteName":"graphics/ships/not_a_cat_lobster/carrier.png",
-	"baseValueMult":1.5,
+	"baseValueMult":1.2,
 	"removeHints":[],
 	#"addHints":[],
-	"removeWeaponSlots":[], 	# ids
+	"removeWeaponSlots":["WS 004", "WS 005"], 	# ids
 	"removeEngineSlots":[], 			# indices, as engine slots have no id in the .ship file
-	#"removeBuiltInMods":[], 			# hullmod ids
-	#"removeBuiltInWeapons":[], 			# weapon slot ids
-	"builtInMods":["vast_hangar", converted_hangar],
+	"removeBuiltInMods":["fluxshunt"], 			# hullmod ids
+	"builtInMods":[],
 	"builtInWeapons":{
     },
     "weaponSlotChanges":{
-		"WS 001":{
-			"type": "BALLISTIC",
-			"size": "MEDIUM"
-		},
 		"WS 002":{
-			"type": "BALLISTIC",
-			"size": "MEDIUM"
+			"type": "COMPOSITE",
 		},
-		"WS 007":{
-			"type": "BALLISTIC",
-			"size": "MEDIUM"
+		"WS 003":{
+			"type": "COMPOSITE",
 		},
 	},
 }

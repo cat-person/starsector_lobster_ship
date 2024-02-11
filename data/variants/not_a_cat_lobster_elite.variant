@@ -1,43 +1,41 @@
 {
     "displayName": "Standard",
     "fluxCapacitors": 0,
-    "fluxVents": 30,
+    "fluxVents": 24,
     "goalVariant": true,
-    "hullId": "not_a_cat_lobster",
-    "hullMods": ["targetingunit", "stabilizedshieldemitter"],
+    "hullId": "not_a_cat_lobster_elite",
+    "hullMods": ["targetingunit", "hardenedshieldemitter"],
     "permaMods": [fluxshunt],
     "sMods": [],
-    "variantId": "not_a_cat_lobster_standard",
+    "variantId": "not_a_cat_lobster_elite",
     "weaponGroups": [
         {
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 001": "jackhammer",
+                "WS 001": "vulcan",
             }
         },
         {
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 002": "heavymauler",
-                "WS 003": "heavymauler"
+                "WS 002": "gauss",
+                "WS 003": "gauss"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 004": "sabotpod",
-                "WS 005": "sabotpod",
+                "WS 004": "dragon",
+                "WS 005": "dragon",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 006": "vulcan",
-                "WS 007": "vulcan",
                 "WS 008": "vulcan",
                 "WS 009": "vulcan",
             }

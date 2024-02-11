@@ -1,10 +1,10 @@
 {
-    "displayName": "Standard",
+    "displayName": "Mad Seadoggo",
     "fluxCapacitors": 0,
     "fluxVents": 28,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster_p",
-    "hullMods": ["missleracks", "stabilizedshieldemitter"],
+    "hullMods": ["fluxdistributor"],
     "permaMods": [],
     "sMods": [],
     "variantId": "not_a_cat_lobster_p",
@@ -13,24 +13,27 @@
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 001": "mark9",
-                "WS 002": "mark9"
+                "WS 001": "chaingun",
+                "WS 002": "chaingun",
+                "WS 003": "chaingun"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 007": "vulcan",
+                "WS 004": "sabotpod",
+                "WS 005": "sabotpod",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 003": "annihilatorpod",
-                "WS 004": "annihilatorpod",
+                "WS 006": "lightdualac",
+                "WS 007": "lightdualac",
             }
-        }
+        },
+        
     ]
 }
