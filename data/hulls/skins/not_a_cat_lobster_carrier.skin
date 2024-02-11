@@ -6,7 +6,10 @@
 	"hullDesignation":"Cruiser",
 	"systemId":"fortressshield",
 	"fleetPoints":24,
-	"ordnancePoints":120,
+	"suppliesToRecover":24,
+	"suppliesPerMonth":24,
+	"maxSpeed": 60,
+	"ordnancePoints":100,
 	"descriptionPrefix":"Pirate Lobster",
 	"tags":["merc", "ind"],
 	"tech":"MIDLINE",
@@ -15,10 +18,9 @@
 	"spriteName":"graphics/ships/not_a_cat_lobster/carrier.png",
 	"baseValueMult":1.2,
 	"removeHints":[],
-	#"addHints":[],
-	"removeWeaponSlots":["WS 004", "WS 005"], 	# ids
-	"removeEngineSlots":[], 			# indices, as engine slots have no id in the .ship file
-	"removeBuiltInMods":["fluxshunt"], 			# hullmod ids
+	"removeWeaponSlots":["WS 004", "WS 005"],
+	"removeEngineSlots":[],
+	"removeBuiltInMods":["fluxshunt"],
 	"builtInMods":[],
 	"builtInWeapons":{
     },
