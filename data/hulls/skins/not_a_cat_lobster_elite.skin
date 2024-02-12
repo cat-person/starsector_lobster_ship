@@ -4,6 +4,7 @@
 	"descriptionId":"not_a_cat_lobster_elite",
 	"hullName":"Lobster [Elite]",
 	"hullDesignation":"Cruiser",
+	"tags":["merc", "ind"],
 	"fleetPoints":24,
 	"ordnancePoints":140,
 	"descriptionPrefix":"Elite Lobster",

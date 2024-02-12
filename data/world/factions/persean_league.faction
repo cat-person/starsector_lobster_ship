@@ -1,0 +1,10 @@
+{
+    "knownShips":{
+        "tags":["",],
+		"hulls":[
+			"not_a_cat_lobster",
+            "not_a_cat_lobster_carrier",
+            "not_a_cat_lobster_elite"
+		],
+    },
+},	

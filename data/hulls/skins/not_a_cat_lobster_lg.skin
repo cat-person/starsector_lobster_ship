@@ -6,7 +6,7 @@
 	"hullDesignation":"Cruiser",
 	"descriptionPrefix":"LG Lobster",
 	"systemId": "highenergyfocus",
-	"tags":["LG_bp", "ind"],
+	"tags":["LG_bp", "ind", "merc"],
 	"tech":"Lion's Guard",
 	"builtInMods":["solar_shielding", "andrada_mods", "coherer"],
 	"spriteName":"graphics/ships/not_a_cat_lobster/lg.png",
