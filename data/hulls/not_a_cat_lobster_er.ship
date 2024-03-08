@@ -9,7 +9,7 @@
         75,
         127
     ],
-    "collisionRadius": 140,
+    "collisionRadius": 150,
     "coversColor": "",
     "engineSlots": [
         {
@@ -70,29 +70,32 @@
 
     ],
     "height": 227,
-    "hullId": "not_a_cat_lobster",
-    "hullName": "Lobster",
+    "hullId": "not_a_cat_lobster_er",
+    "hullName": "Lobster (ER)",
     "hullSize": "CRUISER",
     "shieldCenter": [
         0,
         0
     ],
     "shieldRadius": 130,
-    "spriteName": "graphics/ships/not_a_cat_lobster.png",
+    "spriteName": "graphics/ships/not_a_cat_lobster/lg.png",
     "style": "MIDLINE",
     "viewOffset": 0,
+    "weaponSlotChanges":{
+		
+	},
     "weaponSlots": [
         {
             "angle": 0,
-            "arc": 6,
+            "arc": 90,
             "id": "WS 001",
             "locations": [
                 86,
                 0
             ],
-            "mount": "HARDPOINT",
-            "size": "MEDIUM",
-            "type": "COMPOSITE"
+            "mount": "TURRET",
+            "size": "SMALL",
+            "type": "HYBRID"
         },
         {
             "angle": 0,
@@ -103,8 +106,8 @@
                 43
             ],
             "mount": "HARDPOINT",
-            "size": "MEDIUM",
-            "type": "BALLISTIC"
+            "size": "LARGE",
+            "type": "ENERGY"
         },
         {
             "angle": 0,
@@ -115,34 +118,9 @@
                 -43
             ],
             "mount": "HARDPOINT",
-            "size": "MEDIUM",
-            "type": "BALLISTIC"
+            "size": "LARGE",
+            "type": "ENERGY"
         },        
-        {
-            "angle": 45,
-            "arc": 120,
-            "id": "WS 006",
-            "locations": [
-                54,
-                24
-            ],
-            "mount": "TURRET",
-            "size": "SMALL",
-            "type": "BALLISTIC"
-        },
-        {
-            "angle": 315,
-            "arc": 120,
-            "id": "WS 007",
-            "locations": [
-                54,
-                -24
-            ],
-            "mount": "TURRET",
-            "size": "SMALL",
-            "type": "BALLISTIC"
-        },
-        
         {
             "angle": 75,
             "arc": 200,
@@ -167,6 +145,56 @@
             "size": "MEDIUM",
             "type": "SYNERGY"
         },
+
+        {
+            "angle": 90,
+            "arc": 0,
+            "id": "WS 006",
+            "locations": [
+                0,
+                31
+            ],
+            "mount": "HARDPOINT",
+            "size": "SMALL",
+            "type": "MISSILE"
+        },
+        {
+            "angle": 270,
+            "arc": 0,
+            "id": "WS 007",
+            "locations": [
+                0,
+                -31
+            ],
+            "mount": "HARDPOINT",
+            "size": "SMALL",
+            "type": "MISSILE"
+        },
+        {
+            "angle": 90,
+            "arc": 0,
+            "id": "WS 010",
+            "locations": [
+                -20,
+                31
+            ],
+            "mount": "HARDPOINT",
+            "size": "SMALL",
+            "type": "MISSILE"
+        },
+        {
+            "angle": 270,
+            "arc": 0,
+            "id": "WS 011",
+            "locations": [
+                -20,
+                -31
+            ],
+            "mount": "HARDPOINT",
+            "size": "SMALL",
+            "type": "MISSILE"
+        },
+        
         {
             "angle": 130,
             "arc": 200,
@@ -177,7 +205,7 @@
             ],
             "mount": "TURRET",
             "size": "SMALL",
-            "type": "BALLISTIC"
+            "type": "HYBRID"
         },
         {
             "angle": 230,
@@ -189,7 +217,7 @@
             ],
             "mount": "TURRET",
             "size": "SMALL",
-            "type": "BALLISTIC"
+            "type": "HYBRID"
         },
     ],
     "width": 150,
