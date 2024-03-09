@@ -4,7 +4,7 @@
         -110, 60,
         -110, -60,
     ],
-
+    "builtInMods":["solar_shielding", "andrada_mods", "coherer"],
     "center": [
         75,
         127
