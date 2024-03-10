@@ -4,12 +4,12 @@
         -110, 60,
         -110, -60,
     ],
-    "builtInMods":["armoredweapons"],
+    "builtInMods":["safetyoverrides", "armoredweapons"],
     "center": [
         75,
         127
     ],
-    "collisionRadius": 155,
+    "collisionRadius": 125,
     "coversColor": "",
     "engineSlots": [
         {
@@ -70,32 +70,29 @@
 
     ],
     "height": 227,
-    "hullId": "not_a_cat_lobster_e",
-    "hullName": "Lobster (E)",
+    "hullId": "not_a_cat_lobster_p",
+    "hullName": "Lobster",
     "hullSize": "CRUISER",
     "shieldCenter": [
         0,
         0
     ],
-    "shieldRadius": 140,
-    "spriteName": "graphics/ships/not_a_cat_lobster/lg.png",
+    "shieldRadius": 125,
+    "spriteName": "graphics/ships/not_a_cat_lobster/p.png",
     "style": "MIDLINE",
     "viewOffset": 0,
-    "weaponSlotChanges":{
-		
-	},
     "weaponSlots": [
         {
             "angle": 0,
-            "arc": 90,
+            "arc": 6,
             "id": "WS 001",
             "locations": [
                 86,
                 0
             ],
-            "mount": "TURRET",
-            "size": "SMALL",
-            "type": "HYBRID"
+            "mount": "HARDPOINT",
+            "size": "MEDIUM",
+            "type": "COMPOSITE"
         },
         {
             "angle": 0,
@@ -106,7 +103,7 @@
                 43
             ],
             "mount": "HARDPOINT",
-            "size": "LARGE",
+            "size": "MEDIUM",
             "type": "BALLISTIC"
         },
         {
@@ -118,9 +115,34 @@
                 -43
             ],
             "mount": "HARDPOINT",
-            "size": "LARGE",
+            "size": "MEDIUM",
             "type": "BALLISTIC"
         },        
+        {
+            "angle": 45,
+            "arc": 120,
+            "id": "WS 006",
+            "locations": [
+                54,
+                24
+            ],
+            "mount": "TURRET",
+            "size": "SMALL",
+            "type": "BALLISTIC"
+        },
+        {
+            "angle": 315,
+            "arc": 120,
+            "id": "WS 007",
+            "locations": [
+                54,
+                -24
+            ],
+            "mount": "TURRET",
+            "size": "SMALL",
+            "type": "BALLISTIC"
+        },
+        
         {
             "angle": 75,
             "arc": 200,
@@ -145,81 +167,6 @@
             "size": "MEDIUM",
             "type": "SYNERGY"
         },
-
-        {
-            "angle": 90,
-            "arc": 0,
-            "id": "WS 006",
-            "locations": [
-                0,
-                31
-            ],
-            "mount": "HARDPOINT",
-            "size": "SMALL",
-            "type": "MISSILE"
-        },
-        {
-            "angle": 270,
-            "arc": 0,
-            "id": "WS 007",
-            "locations": [
-                0,
-                -31
-            ],
-            "mount": "HARDPOINT",
-            "size": "SMALL",
-            "type": "MISSILE"
-        },
-        {
-            "angle": 90,
-            "arc": 0,
-            "id": "WS 010",
-            "locations": [
-                -20,
-                31
-            ],
-            "mount": "HARDPOINT",
-            "size": "SMALL",
-            "type": "MISSILE"
-        },
-        {
-            "angle": 270,
-            "arc": 0,
-            "id": "WS 011",
-            "locations": [
-                -20,
-                -31
-            ],
-            "mount": "HARDPOINT",
-            "size": "SMALL",
-            "type": "MISSILE"
-        },
-        
-        {
-            "angle": 130,
-            "arc": 200,
-            "id": "WS 008",
-            "locations": [
-                -89,
-                31
-            ],
-            "mount": "TURRET",
-            "size": "SMALL",
-            "type": "HYBRID"
-        },
-        {
-            "angle": 230,
-            "arc": 200,
-            "id": "WS 009",
-            "locations": [
-                -89,
-                -31
-            ],
-            "mount": "TURRET",
-            "size": "SMALL",
-            "type": "HYBRID"
-        },
     ],
-    "width": 150,
-    
+    "width": 150, 
 }
