@@ -1,10 +1,8 @@
 {
     "combatLarge": {
         "not_a_cat_lobster_standard": 99,
-        "not_a_cat_lobster_carrier": 99,
         "not_a_cat_lobster_p": 99,
         "not_a_cat_lobster_elite": 99,
-        "not_a_cat_lobster_lg": 99,
-        "not_a_cat_lobster_er": 99
+        "not_a_cat_lobster_lg": 99
     }
 }

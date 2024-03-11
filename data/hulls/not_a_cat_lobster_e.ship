@@ -78,7 +78,7 @@
         0
     ],
     "shieldRadius": 140,
-    "spriteName": "graphics/ships/not_a_cat_lobster/lg.png",
+    "spriteName": "graphics/ships/not_a_cat_lobster/elite.png",
     "style": "MIDLINE",
     "viewOffset": 0,
     "weaponSlotChanges":{

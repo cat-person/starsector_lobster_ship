@@ -1,8 +1,8 @@
 {
 	"baseHullId":"not_a_cat_lobster",
-	"skinHullId":"not_a_cat_lobster_p",
-	"descriptionId":"not_a_cat_lobster_p",
-	"hullName":"Lobster [P]",
+	"skinHullId":"not_a_cat_lobster_p_o",
+	"descriptionId":"not_a_cat_lobster_p_o",
+	"hullName":"~~Lobster [P]",
 	"hullDesignation":"Cruiser",
 	"ordnancePoints":100,
 	"descriptionPrefix":"Pirate Lobster",

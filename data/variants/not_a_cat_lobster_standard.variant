@@ -1,11 +1,10 @@
 {
     "displayName": "Standard",
-    "fluxCapacitors": 0,
+    "fluxCapacitors": 10,
     "fluxVents": 30,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster",
     "hullMods": ["targetingunit", "stabilizedshieldemitter"],
-    "permaMods": [fluxshunt],
     "sMods": [],
     "variantId": "not_a_cat_lobster_standard",
     "weaponGroups": [
