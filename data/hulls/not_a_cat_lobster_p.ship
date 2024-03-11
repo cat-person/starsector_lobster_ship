@@ -92,7 +92,7 @@
             ],
             "mount": "HARDPOINT",
             "size": "MEDIUM",
-            "type": "COMPOSITE"
+            "type": "BALLISTIC"
         },
         {
             "angle": 0,
@@ -153,7 +153,7 @@
             ],
             "mount": "TURRET",
             "size": "MEDIUM",
-            "type": "SYNERGY"
+            "type": "MISSILE"
         },
         {
             "angle": -75,
@@ -165,7 +165,7 @@
             ],
             "mount": "TURRET",
             "size": "MEDIUM",
-            "type": "SYNERGY"
+            "type": "MISSILE"
         },
     ],
     "width": 150, 

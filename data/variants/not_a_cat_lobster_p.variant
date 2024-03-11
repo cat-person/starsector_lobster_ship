@@ -1,11 +1,10 @@
 {
     "displayName": "Mad Seadoggo",
-    "fluxCapacitors": 14,
-    "fluxVents": 24,
+    "fluxCapacitors": 10,
+    "fluxVents": 25,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster_p",
-    "hullMods": ["fluxdistributor"],
-    "permaMods": [],
+    "hullMods": ["unstable_injector"],
     "sMods": [],
     "variantId": "not_a_cat_lobster_p",
     "weaponGroups": [
@@ -14,8 +13,8 @@
             "mode": "LINKED",
             "weapons": {
                 "WS 001": "chaingun",
-                "WS 002": "chaingun",
-                "WS 003": "chaingun"
+                "WS 002": "heavymg",
+                "WS 003": "heavymg"
             }
         },
         {
@@ -30,8 +29,8 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 006": "lightdualac",
-                "WS 007": "lightdualac",
+                "WS 006": "lightdualmg",
+                "WS 007": "lightdualmg",
             }
         },
         
