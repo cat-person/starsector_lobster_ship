@@ -1,7 +1,7 @@
 {
     "displayName": "Standard",
-    "fluxCapacitors": 10,
-    "fluxVents": 30,
+    "fluxCapacitors": 15,
+    "fluxVents": 26,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster",
     "hullMods": ["targetingunit", "hardenedshieldemitter"],

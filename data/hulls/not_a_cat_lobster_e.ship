@@ -151,8 +151,8 @@
             "arc": 0,
             "id": "WS 006",
             "locations": [
-                0,
-                31
+                2,
+                28
             ],
             "mount": "HARDPOINT",
             "size": "SMALL",
@@ -163,8 +163,8 @@
             "arc": 0,
             "id": "WS 007",
             "locations": [
-                0,
-                -31
+                2,
+                -28
             ],
             "mount": "HARDPOINT",
             "size": "SMALL",
@@ -175,8 +175,8 @@
             "arc": 0,
             "id": "WS 010",
             "locations": [
-                -20,
-                31
+                -16,
+                28
             ],
             "mount": "HARDPOINT",
             "size": "SMALL",
@@ -187,8 +187,8 @@
             "arc": 0,
             "id": "WS 011",
             "locations": [
-                -20,
-                -31
+                -16,
+                -28
             ],
             "mount": "HARDPOINT",
             "size": "SMALL",
