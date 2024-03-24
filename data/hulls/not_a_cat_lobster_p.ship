@@ -17,6 +17,7 @@
     "shieldRadius": 135,
     "viewOffset": 0,
     "builtInMods": [
+        "safetyoverrides",
         "armoredweapons"
     ],
     "builtInWings": [],
@@ -97,28 +98,6 @@
             "angle": -75,
             "locations": [
                     53.5,    -49.5
-            ]
-        },
-        {
-            "id": "WS 008",
-            "size": "SMALL",
-            "type": "BALLISTIC",
-            "mount": "TURRET",
-            "arc": 200,
-            "angle": 130,
-            "locations": [
-                     -71,     28.5
-            ]
-        },
-        {
-            "id": "WS 009",
-            "size": "SMALL",
-            "type": "BALLISTIC",
-            "mount": "TURRET",
-            "arc": 200,
-            "angle": 230,
-            "locations": [
-                     -71,    -28.5
             ]
         }
     ],
