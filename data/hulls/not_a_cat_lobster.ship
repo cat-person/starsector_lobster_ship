@@ -9,12 +9,12 @@
     "center": [
         79, 119
     ],
-    "collisionRadius": 125,
+    "collisionRadius": 135,
     "coversColor": "",
     "shieldCenter": [
-        9, 0
+        14, 0
     ],
-    "shieldRadius": 130,
+    "shieldRadius": 135,
     "viewOffset": 0,
     "builtInMods": [
         "armoredweapons"
