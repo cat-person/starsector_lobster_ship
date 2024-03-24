@@ -1,0 +1,33 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 4,
+    "fluxVents": 12,
+    "goalVariant": false,
+    "hullId": "not_a_cat_lobster_elg",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "stabilizedshieldemitter",
+        "targetingunit"
+    ],
+    "quality": 0.0,
+    "variantId": "not_a_cat_lobster_elg_custom",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "gigacannon",
+                "WS 002": "kineticblaster",
+                "WS 003": "kineticblaster",
+                "WS 008": "pdlaser",
+                "WS 009": "pdlaser",
+                "WS 000": "swarmer",
+                "WS 010": "swarmer",
+                "WS 006": "pdburst",
+                "WS 007": "pdburst",
+                "WS 004": "sabotpod",
+                "WS 005": "sabotpod"
+            }
+        }
+    ]
+}

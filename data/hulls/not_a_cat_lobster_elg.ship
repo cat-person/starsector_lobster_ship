@@ -1,9 +1,9 @@
 {
     "hullName": "Lobster",
-    "hullId": "not_a_cat_lobster_e",
+    "hullId": "not_a_cat_lobster_elg",
     "hullSize": "CRUISER",
     "style": "MIDLINE",
-    "spriteName": "graphics/ships/not_a_cat_lobster/e.png",
+    "spriteName": "graphics/ships/not_a_cat_lobster/elg.png",
     "height": 238,
     "width": 158,
     "center": [
@@ -17,6 +17,9 @@
     "shieldRadius": 135,
     "viewOffset": 0,
     "builtInMods": [
+        "andrada_mods",
+        "solar_shielding",
+        "coherer",
         "armoredweapons"
     ],
     "builtInWings": [],
@@ -25,7 +28,7 @@
         {
             "id": "WS 001",
             "size": "LARGE",
-            "type": "COMPOSITE",
+            "type": "SYNERGY",
             "mount": "HARDPOINT",
             "arc": 6,
             "angle": 0,
@@ -36,7 +39,7 @@
         {
             "id": "WS 002",
             "size": "MEDIUM",
-            "type": "BALLISTIC",
+            "type": "ENERGY",
             "mount": "HARDPOINT",
             "arc": 6,
             "angle": 0,
@@ -47,7 +50,7 @@
         {
             "id": "WS 003",
             "size": "MEDIUM",
-            "type": "BALLISTIC",
+            "type": "ENERGY",
             "mount": "HARDPOINT",
             "arc": 6,
             "angle": 0,
@@ -58,7 +61,7 @@
         {
             "id": "WS 006",
             "size": "SMALL",
-            "type": "BALLISTIC",
+            "type": "HYBRID",
             "mount": "TURRET",
             "arc": 120,
             "angle": 45,
@@ -69,7 +72,7 @@
         {
             "id": "WS 007",
             "size": "SMALL",
-            "type": "BALLISTIC",
+            "type": "HYBRID",
             "mount": "TURRET",
             "arc": 120,
             "angle": 315,
@@ -102,7 +105,7 @@
         {
             "id": "WS 008",
             "size": "SMALL",
-            "type": "BALLISTIC",
+            "type": "HYBRID",
             "mount": "TURRET",
             "arc": 200,
             "angle": 130,
@@ -113,7 +116,7 @@
         {
             "id": "WS 009",
             "size": "SMALL",
-            "type": "BALLISTIC",
+            "type": "HYBRID",
             "mount": "TURRET",
             "arc": 200,
             "angle": 230,
