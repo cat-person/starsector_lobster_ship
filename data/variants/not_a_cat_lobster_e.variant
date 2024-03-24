@@ -12,26 +12,6 @@
     "variantId": "not_a_cat_lobster_e",
     "weaponGroups": [
         {
-            "autofire": false,
-            "mode": "ALTERNATING",
-            "weapons": {
-                "WS 008": "vulcan",
-                "WS 009": "vulcan",
-                "WS 006": "railgun",
-                "WS 007": "railgun",
-                "WS 001": "hephag",
-                "WS 002": "heavyneedler",
-                "WS 003": "heavyneedler",
-                "WS 000": "gazer",
-                "WS 010": "gazer",
-                "WS 004": "sabotpod",
-                "WS 005": "sabotpod"
-            }
-        }
-    ]
-
-    "weaponGroups": [
-        {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
@@ -43,17 +23,25 @@
             "mode": "LINKED",
             "weapons": {
                 "WS 002": "heavyneedler",
-                "WS 003": "heavyneedler"
+                "WS 003": "heavyneedler",
                 "WS 006": "railgun",
                 "WS 007": "railgun",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "sabotpod",
+                "WS 005": "sabotpod",
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 004": "sabotpod",
-                "WS 005": "sabotpod",
+                "WS 010": "gazer",
+                "WS 011": "gazer",
             }
         },
         {

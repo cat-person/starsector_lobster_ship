@@ -122,7 +122,7 @@
             ]
         },
         {
-            "id": "WS 000",
+            "id": "WS 010",
             "size": "SMALL",
             "type": "MISSILE",
             "mount": "HARDPOINT",
@@ -133,7 +133,7 @@
             ]
         },
         {
-            "id": "WS 010",
+            "id": "WS 011",
             "size": "SMALL",
             "type": "MISSILE",
             "mount": "HARDPOINT",
