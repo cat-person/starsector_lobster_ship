@@ -10,7 +10,7 @@
         "targetingunit"
     ],
     "quality": 0.0,
-    "variantId": "not_a_cat_lobster_elg_custom",
+    "variantId": "not_a_cat_lobster_elg",
     "weaponGroups": [
         {
             "autofire": false,

@@ -10,7 +10,7 @@
         "hardenedshieldemitter"
     ],
     "quality": 0.0,
-    "variantId": "not_a_cat_lobster_lg_custom",
+    "variantId": "not_a_cat_lobster_lg",
     "weaponGroups": [
         {
             "autofire": false,
