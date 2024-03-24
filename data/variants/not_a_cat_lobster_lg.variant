@@ -13,7 +13,7 @@
     "variantId": "not_a_cat_lobster_lg",
     "weaponGroups": [
         {
-            "autofire": false,
+            "autofire": true,
             "mode": "LINKED",
             "weapons": {
                 "WS 001": "ionpulser",
@@ -34,7 +34,7 @@
             "mode": "LINKED",
             "weapons": {
                 "WS 006": "lrpdlaser",
-                "WS 007": "lrpdlaser"
+                "WS 007": "lrpdlaser",
                 "WS 008": "pdlaser",
                 "WS 009": "pdlaser",
             }
