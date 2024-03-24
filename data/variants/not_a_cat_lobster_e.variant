@@ -29,4 +29,40 @@
             }
         }
     ]
+
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "hephag"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "heavyneedler",
+                "WS 003": "heavyneedler"
+                "WS 006": "railgun",
+                "WS 007": "railgun",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "sabotpod",
+                "WS 005": "sabotpod",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 008": "vulcan",
+                "WS 009": "vulcan",
+            }
+        }
+    ]
 }

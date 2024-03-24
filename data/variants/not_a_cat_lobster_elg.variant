@@ -14,19 +14,36 @@
     "weaponGroups": [
         {
             "autofire": false,
-            "mode": "ALTERNATING",
+            "mode": "LINKED",
             "weapons": {
                 "WS 001": "gigacannon",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                
                 "WS 002": "kineticblaster",
                 "WS 003": "kineticblaster",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "sabotpod",
+                "WS 005": "sabotpod",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "lrpdlaser",
+                "WS 007": "lrpdlaser"
                 "WS 008": "pdlaser",
                 "WS 009": "pdlaser",
-                "WS 000": "swarmer",
-                "WS 010": "swarmer",
-                "WS 006": "pdburst",
-                "WS 007": "pdburst",
-                "WS 004": "sabotpod",
-                "WS 005": "sabotpod"
             }
         }
     ]
