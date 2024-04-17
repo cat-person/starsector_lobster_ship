@@ -4,5 +4,6 @@
     "author": "Meower The Great | MiniDeth3",
     "version": "3.0.0-rc3",
     "description": "This mod adds a collection of Lobster looking ships to the game which are more or less balanced and fun to play. Enjoy!",
+    "jars":["jars/Mod.jar"],
     "gameVersion": "0.97a"
 }

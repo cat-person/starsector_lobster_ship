@@ -18,10 +18,18 @@
     "viewOffset": 0,
     "builtInMods": [
         "armoredweapons",
-        "missleracks",
-        "distributed_fire_control"
+        "safetyoverrides",
+        "distributed_fire_control",
+        "ill_advised",
+        "do_not_back_off",
+        "not_a_cat_last_pray"
     ],
-    "builtInWeapons": {},
+    "builtInWeapons": {
+        "WS 001": "not_a_cat_sledgehammer",
+        "WS 002": "not_a_cat_sledgehammer",
+        "WS 003": "not_a_cat_sledgehammer",
+        "WS 000": "od_bomblauncher"
+    },
     "builtInWings": [],
     "builtInModules": null,
     "weaponSlots": [
@@ -122,17 +130,6 @@
             "angle": -135,
             "locations": [
                    -71.5,    -33.5
-            ]
-        },
-        {
-            "id": "WS 000 000",
-            "size": "SMALL",
-            "type": "BUILT_IN",
-            "mount": "HIDDEN",
-            "arc": 0,
-            "angle": 180,
-            "locations": [
-                   -91.5,      0.5
             ]
         },
         {
