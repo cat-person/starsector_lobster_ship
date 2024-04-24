@@ -1,12 +1,11 @@
 {
     "displayName": "Custom",
-    "fluxCapacitors": 5,
-    "fluxVents": 24,
+    "fluxCapacitors": 0,
+    "fluxVents": 15,
     "goalVariant": false,
     "hullId": "not_a_cat_lobster_tt",
     "hullMods": [
-        "missleracks",
-        "stabilizedshieldemitter",
+        "safetyoverrides"
     ],
     "quality": 0.0,
     "variantId": "not_a_cat_lobster_tt",
@@ -27,17 +26,11 @@
             }
         },
         {
-            "autofire": false,
-            "mode": "LINKED",
-            "weapons": {
-                "WS 004": "sabotpod",
-                "WS 005": "sabotpod",
-            }
-        },
-        {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
+                "WS 004": "heavyburst",
+                "WS 005": "heavyburst",
                 "WS 006": "pdburst",
                 "WS 007": "pdburst",
                 "WS 008": "pdlaser",
