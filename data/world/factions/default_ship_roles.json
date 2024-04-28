@@ -1,12 +1,12 @@
 {
     "combatLarge": {
-        "not_a_cat_lobster_standard": 4,
-        "not_a_cat_lobster_p": 3,
-        "not_a_cat_lobster_lp": 3,
-        "not_a_cat_lobster_e": 2,
-        "not_a_cat_lobster_lg": 2,
-        "not_a_cat_lobster_elg": 1,
-        "not_a_cat_lobster_tt": 2,
-        "not_a_cat_lobster_blue_krait": 1
+        "not_a_cat_lobster_standard": 8,
+        "not_a_cat_lobster_p": 4,
+        "not_a_cat_lobster_lp": 4,
+        "not_a_cat_lobster_e": 3,
+        "not_a_cat_lobster_lg": 3,
+        "not_a_cat_lobster_elg": 2,
+        "not_a_cat_lobster_tt": 3,
+        "not_a_cat_lobster_blue_krait": 2
     }
 }
