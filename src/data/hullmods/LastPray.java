@@ -7,7 +7,7 @@ import com.fs.starfarer.api.impl.campaign.ids.Stats;
 
 public class LastPray extends BaseHullMod {
 
-	public static final float RADIUS_MULT = 10f;
+	public static final float RADIUS_MULT = 5f;
 	public static final float DAMAGE_MULT = 10f;
 	
 	public void applyEffectsBeforeShipCreation(HullSize hullSize, MutableShipStatsAPI stats, String id) {

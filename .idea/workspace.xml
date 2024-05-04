@@ -6,15 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="650ccaa5-1b71-45c5-af25-4dee8c249db5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/hulls/not_a_cat_lobster.ship" beforeDir="false" afterPath="$PROJECT_DIR$/data/hulls/not_a_cat_lobster.ship" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/hulls/not_a_cat_lobster_e.ship" beforeDir="false" afterPath="$PROJECT_DIR$/data/hulls/not_a_cat_lobster_e.ship" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/hulls/not_a_cat_lobster_elg.ship" beforeDir="false" afterPath="$PROJECT_DIR$/data/hulls/not_a_cat_lobster_elg.ship" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/hulls/not_a_cat_lobster_lg.ship" beforeDir="false" afterPath="$PROJECT_DIR$/data/hulls/not_a_cat_lobster_lg.ship" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/hulls/not_a_cat_lobster_lp.ship" beforeDir="false" afterPath="$PROJECT_DIR$/data/hulls/not_a_cat_lobster_lp.ship" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/hulls/not_a_cat_lobster_tt.ship" beforeDir="false" afterPath="$PROJECT_DIR$/data/hulls/not_a_cat_lobster_tt.ship" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/hulls/ship_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/hulls/ship_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_lp.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_lp.variant" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mod_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/mod_info.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data/hullmods/LastPray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/hullmods/LastPray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
