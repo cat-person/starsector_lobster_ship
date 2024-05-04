@@ -27,8 +27,7 @@
     "builtInWeapons": {
         "WS 001": "not_a_cat_sledgehammer",
         "WS 002": "not_a_cat_sledgehammer",
-        "WS 003": "not_a_cat_sledgehammer",
-        "WS 000": "od_bomblauncher"
+        "WS 003": "not_a_cat_sledgehammer"
     },
     "builtInWings": [],
     "builtInModules": null,
@@ -37,19 +36,19 @@
             "id": "WS 001",
             "size": "MEDIUM",
             "type": "BUILT_IN",
-            "mount": "HARDPOINT",
-            "arc": 6,
+            "mount": "TURRET",
+            "arc": 30,
             "angle": 0,
             "locations": [
-                     107,        0
+                     105,        0
             ]
         },
         {
             "id": "WS 002",
             "size": "MEDIUM",
             "type": "BUILT_IN",
-            "mount": "HARDPOINT",
-            "arc": 6,
+            "mount": "TURRET",
+            "arc": 30,
             "angle": 0,
             "locations": [
                     88.5,     41.5
@@ -59,8 +58,8 @@
             "id": "WS 003",
             "size": "MEDIUM",
             "type": "BUILT_IN",
-            "mount": "HARDPOINT",
-            "arc": 6,
+            "mount": "TURRET",
+            "arc": 30,
             "angle": 0,
             "locations": [
                     88.5,    -41.5
@@ -96,7 +95,7 @@
             "arc": 90,
             "angle": 30,
             "locations": [
-                      56,     47.5
+                      55,       48
             ]
         },
         {
@@ -107,7 +106,7 @@
             "arc": 90,
             "angle": -30,
             "locations": [
-                      56,    -47.5
+                      55,      -48
             ]
         },
         {
@@ -118,7 +117,7 @@
             "arc": 140,
             "angle": 135,
             "locations": [
-                   -71.5,     33.5
+                     -71,       28
             ]
         },
         {
@@ -129,14 +128,14 @@
             "arc": 140,
             "angle": -135,
             "locations": [
-                   -71.5,    -33.5
+                     -71,      -28
             ]
         },
         {
             "id": "WS 000",
             "size": "SMALL",
             "type": "SYSTEM",
-            "mount": "HARDPOINT",
+            "mount": "HIDDEN",
             "arc": 0,
             "angle": 180,
             "locations": [
@@ -202,19 +201,19 @@
             29.5,      -42,
               18,      -68,
               69,      -78,
-        
+
            115.5,        0,
               69,       78,
               18,       68,
             29.5,       42,
              -31,     26.5,
-        
+
            -61.5,     58.5,
             -105,     48.5,
             -105,       19,
             -112,       17,
             -112,      -17,
-        
+
             -105,      -19,
             -105,    -48.5
     # 17 points total.
