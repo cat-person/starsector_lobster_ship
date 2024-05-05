@@ -1,0 +1,39 @@
+{
+    "displayName": "Turtle",
+    "fluxCapacitors": 0,
+    "fluxVents": 14,
+    "goalVariant": false,
+    "hullId": "not_a_cat_lobster_lp",
+    "hullMods": [
+        "missleracks",
+        "heavyarmor"
+    ],
+    "sMods": [
+        "shield_shunt"
+    ],
+    "quality": 0.0,
+    "variantId": "not_a_cat_lobster_lp_custom",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "not_a_cat_sledgehammer",
+                "WS 002": "not_a_cat_sledgehammer",
+                "WS 003": "not_a_cat_sledgehammer",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {   
+                "WS 004": "vulcan",
+                "WS 005": "vulcan",
+                "WS 006": "lightdualmg",
+                "WS 007": "lightdualmg",
+                "WS 008": "vulcan",
+                "WS 009": "vulcan",
+            }
+        }
+    ]
+}
