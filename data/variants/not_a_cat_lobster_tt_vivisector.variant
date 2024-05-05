@@ -1,28 +1,31 @@
 {
-    "displayName": "Blue Krait",
-    "fluxCapacitors": 0,
-    "fluxVents": 15,
-    "goalVariant": false,
+    "displayName": "Custom",
+    "fluxCapacitors": 5,
+    "fluxVents": 30,
+    "goalVariant": true,
     "hullId": "not_a_cat_lobster_tt",
     "hullMods": [
-        "safetyoverrides"
+        "hardenedshieldemitter",
+        "high_scatter_amp"
     ],
     "quality": 0.0,
-    "variantId": "not_a_cat_lobster_blue_krait",
+    "variantId": "not_a_cat_lobster_tt_custom",
     "weaponGroups": [
         {
-            "autofire": true,
-            "mode": "LINKED",
+            "autofire": false,
+            "mode": "ALTERNATING",
             "weapons": {
-                "WS 001": "heavymg",
+                "WS 002": "phasebeam",
+                "WS 001": "phasebeam",
+                "WS 003": "phasebeam",
             }
         },
         {
-            "autofire": true,
+            "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 002": "ionpulser",
-                "WS 003": "ionpulser",
+                "WS 006": "ioncannon",
+                "WS 007": "ioncannon",
             }
         },
         {
@@ -31,8 +34,6 @@
             "weapons": {
                 "WS 004": "heavyburst",
                 "WS 005": "heavyburst",
-                "WS 006": "pdburst",
-                "WS 007": "pdburst",
                 "WS 008": "pdlaser",
                 "WS 009": "pdlaser"
             }

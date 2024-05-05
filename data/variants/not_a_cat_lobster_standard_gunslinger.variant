@@ -2,14 +2,14 @@
     "displayName": "Gunslinger",
     "fluxCapacitors": 2,
     "fluxVents": 18,
-    "goalVariant": false,
+    "goalVariant": true,
     "hullId": "not_a_cat_lobster",
     "hullMods": [
         "targetingunit",
         "hardenedshieldemitter"
     ],
     "quality": 0.0,
-    "variantId": "not_a_cat_lobster_custom",
+    "variantId": "not_a_cat_lobster_standard_gunslinger",
     "weaponGroups": [
         {
             "autofire": false,

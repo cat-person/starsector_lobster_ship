@@ -1,8 +1,8 @@
 {
-    "displayName": "Custom",
+    "displayName": "Blue Krait",
     "fluxCapacitors": 0,
     "fluxVents": 15,
-    "goalVariant": false,
+    "goalVariant": true,
     "hullId": "not_a_cat_lobster_tt",
     "hullMods": [
         "safetyoverrides"

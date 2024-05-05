@@ -2,7 +2,7 @@
     "displayName": "Marksman",
     "fluxCapacitors": 6,
     "fluxVents": 16,
-    "goalVariant": false,
+    "goalVariant": true,
     "hullId": "not_a_cat_lobster_e",
     "hullMods": [
         "ballistic_rangefinder",

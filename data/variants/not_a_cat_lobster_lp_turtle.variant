@@ -2,7 +2,7 @@
     "displayName": "Turtle",
     "fluxCapacitors": 0,
     "fluxVents": 14,
-    "goalVariant": false,
+    "goalVariant": true,
     "hullId": "not_a_cat_lobster_lp",
     "hullMods": [
         "missleracks",
@@ -12,7 +12,7 @@
         "shield_shunt"
     ],
     "quality": 0.0,
-    "variantId": "not_a_cat_lobster_lp_custom",
+    "variantId": "not_a_cat_lobster_lp_turtle",
     "weaponGroups": [
         {
             "autofire": false,
