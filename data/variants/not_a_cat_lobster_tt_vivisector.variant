@@ -1,5 +1,5 @@
 {
-    "displayName": "Custom",
+    "displayName": "Vivisector",
     "fluxCapacitors": 5,
     "fluxVents": 30,
     "goalVariant": true,
@@ -9,7 +9,7 @@
         "high_scatter_amp"
     ],
     "quality": 0.0,
-    "variantId": "not_a_cat_lobster_tt_custom",
+    "variantId": "not_a_cat_lobster_tt_vivisector",
     "weaponGroups": [
         {
             "autofire": false,
