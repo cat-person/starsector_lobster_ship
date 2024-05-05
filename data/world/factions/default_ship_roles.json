@@ -1,12 +1,20 @@
 {
     "combatLarge": {
-        "not_a_cat_lobster_standard": 8,
-        "not_a_cat_lobster_p": 4,
-        "not_a_cat_lobster_lp": 4,
-        "not_a_cat_lobster_e": 3,
-        "not_a_cat_lobster_lg": 3,
-        "not_a_cat_lobster_elg": 2,
-        "not_a_cat_lobster_tt": 3,
-        "not_a_cat_lobster_blue_krait": 2
+        "not_a_cat_lobster_blue_krait": 0, 
+        "not_a_cat_lobster_e_marksman": 1, 
+        "not_a_cat_lobster_e": 2,
+        "not_a_cat_lobster_elg_long_range": 1, 
+        "not_a_cat_lobster_elg": 1, 
+        "not_a_cat_lobster_lg_hound": 1, 
+        "not_a_cat_lobster_lg": 2, 
+        "not_a_cat_lobster_lp_turtle": 1, 
+        "not_a_cat_lobster_lp": 2, 
+        "not_a_cat_lobster_p_widowmaker": 2, 
+        "not_a_cat_lobster_p": 2, 
+        "not_a_cat_lobster_standard_gunslinger": 2, 
+        "not_a_cat_lobster_standard_reaper": 1, 
+        "not_a_cat_lobster_standard": 4, 
+        "not_a_cat_lobster_tt_blue_krait": 1, 
+        "not_a_cat_lobster_tt": 2
     }
 }

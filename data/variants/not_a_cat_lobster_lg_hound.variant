@@ -1,0 +1,44 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 2,
+    "fluxVents": 15,
+    "goalVariant": false,
+    "hullId": "not_a_cat_lobster_lg",
+    "hullMods": [
+        "safetyoverrides"
+    ],
+    "sMods": [
+        "high_scatter_amp"
+    ],
+    "quality": 0.0,
+    "variantId": "not_a_cat_lobster_lg_hound",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "phasebeam",
+                "WS 002": "phasebeam",
+                "WS 003": "phasebeam",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 006": "ioncannon",
+                "WS 007": "ioncannon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "heavyburst",
+                "WS 005": "heavyburst",
+                "WS 008": "pdlaser",
+                "WS 009": "pdlaser"
+            }
+        }
+    ]
+}

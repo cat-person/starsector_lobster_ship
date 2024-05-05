@@ -1,0 +1,41 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 0,
+    "fluxVents": 15,
+    "goalVariant": false,
+    "hullId": "not_a_cat_lobster_tt",
+    "hullMods": [
+        "safetyoverrides"
+    ],
+    "quality": 0.0,
+    "variantId": "not_a_cat_lobster_tt_blue_krait",
+    "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "heavymg",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "ionpulser",
+                "WS 003": "ionpulser",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "heavyburst",
+                "WS 005": "heavyburst",
+                "WS 006": "pdburst",
+                "WS 007": "pdburst",
+                "WS 008": "pdlaser",
+                "WS 009": "pdlaser"
+            }
+        }
+    ]
+}

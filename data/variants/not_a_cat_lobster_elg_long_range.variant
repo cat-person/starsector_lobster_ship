@@ -1,0 +1,57 @@
+{
+    "displayName": "Sharpshooter",
+    "fluxCapacitors": 8,
+    "fluxVents": 24,
+    "goalVariant": false,
+    "hullId": "not_a_cat_lobster_elg",
+    "hullMods": [
+        "targetingunit",
+        "advancedoptics"
+    ],
+    "quality": 0.0,
+    "variantId": "not_a_cat_lobster_elg_long_range",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "tachyonlance",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "gravitonbeam",
+                "WS 003": "ionbeam",
+
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "taclaser",
+                "WS 007": "taclaser",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 010": "gazer",
+                "WS 011": "gazer",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "heavyburst",
+                "WS 005": "heavyburst",
+                "WS 008": "pdlaser",
+                "WS 009": "pdlaser"
+            }
+        }
+    ]
+}
