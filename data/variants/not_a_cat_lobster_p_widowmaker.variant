@@ -1,0 +1,34 @@
+{
+    "displayName": "Widowmaker",
+    "fluxCapacitors": 0,
+    "fluxVents": 15,
+    "goalVariant": false,
+    "hullId": "not_a_cat_lobster_p",
+    "hullMods": [
+        "hardenedshieldemitter",
+        "missleracks"
+    ],
+    "quality": 0.0,
+    "variantId": "not_a_cat_lobster_p_widowmaker",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "heavymg",
+                "WS 002": "heavymg",
+                "WS 003": "heavymg",
+                "WS 006": "lightdualmg",
+                "WS 007": "lightdualmg",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "typhoon",
+                "WS 005": "typhoon"
+            }
+        }
+    ]
+}
