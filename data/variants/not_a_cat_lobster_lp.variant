@@ -1,7 +1,7 @@
 {
     "displayName": "Very Mad Seadoggo",
-    "fluxCapacitors": 6,
-    "fluxVents": 26,
+    "fluxCapacitors": 0,
+    "fluxVents": 24,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster_lp",
     "hullMods": [
@@ -15,18 +15,24 @@
             "mode": "LINKED",
             "weapons": {
                 "WS 001": "not_a_cat_sledgehammer",
-                "WS 002": "not_a_cat_sledgehammer",
-                "WS 003": "not_a_cat_sledgehammer"
+                "WS 004": "not_a_cat_sledgehammer",
+                "WS 005": "not_a_cat_sledgehammer"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 004": "lightdualmg",
-                "WS 005": "lightdualmg",
-                "WS 006": "lightdualmg",
-                "WS 007": "lightdualmg",
+                "WS 002": "heavymg",
+                "WS 003": "heavymg",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "vulcan",
+                "WS 007": "vulcan",
                 "WS 008": "vulcan",
                 "WS 009": "vulcan",
             }
