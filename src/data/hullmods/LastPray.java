@@ -14,8 +14,4 @@ public class LastPray extends BaseHullMod {
 		stats.getDynamic().getStat(Stats.EXPLOSION_DAMAGE_MULT).modifyMult(id, DAMAGE_MULT);
 		stats.getDynamic().getStat(Stats.EXPLOSION_RADIUS_MULT).modifyMult(id, RADIUS_MULT);
 	}
-	
-	public String getDescriptionParam(int index, HullSize hullSize) {
-		return null;
-	}
 }

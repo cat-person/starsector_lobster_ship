@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="650ccaa5-1b71-45c5-af25-4dee8c249db5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LobsterCruiser.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mod_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/mod_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/hullmods/LastPray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/hullmods/LastPray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
