@@ -1,7 +1,7 @@
 {
     "displayName": "Blue Krait",
-    "fluxCapacitors": 0,
-    "fluxVents": 15,
+    "fluxCapacitors": 1,
+    "fluxVents": 20,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster_tt",
     "hullMods": [
@@ -14,7 +14,7 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 001": "heavymg",
+                "WS 001": "heavymg"
             }
         },
         {
@@ -22,7 +22,7 @@
             "mode": "LINKED",
             "weapons": {
                 "WS 002": "ionpulser",
-                "WS 003": "ionpulser",
+                "WS 003": "ionpulser"
             }
         },
         {
@@ -33,8 +33,8 @@
                 "WS 005": "heavyburst",
                 "WS 006": "pdburst",
                 "WS 007": "pdburst",
-                "WS 008": "pdlaser",
-                "WS 009": "pdlaser"
+                "WS 008": "mininglaser",
+                "WS 009": "mininglaser"
             }
         }
     ]

@@ -1,7 +1,7 @@
 {
-    "displayName": "Pride od Andrada",
-    "fluxCapacitors": 4,
-    "fluxVents": 12,
+    "displayName": "Pride of Andrada",
+    "fluxCapacitors": 2,
+    "fluxVents": 25,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster_elg",
     "hullMods": [
@@ -24,33 +24,33 @@
             "mode": "LINKED",
             "weapons": {
                 "WS 002": "kineticblaster",
-                "WS 003": "kineticblaster",
+                "WS 003": "kineticblaster"
             }
         },
         {
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 004": "sabotpod",
-                "WS 005": "sabotpod",
+                "WS 004": "gravitonbeam",
+                "WS 005": "ionbeam"
             }
         },
         {
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 010": "swarmer",
-                "WS 011": "swarmer",
+                "WS 010": "heatseeker",
+                "WS 011": "heatseeker"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 006": "pdburst",
-                "WS 007": "pdburst",
-                "WS 008": "pdlaser",
-                "WS 009": "pdlaser"
+                "WS 006": "pdlaser",
+                "WS 007": "pdlaser",
+                "WS 008": "mininglaser",
+                "WS 009": "mininglaser"
             }
         }
     ]

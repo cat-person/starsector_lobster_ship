@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="650ccaa5-1b71-45c5-af25-4dee8c249db5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/hullmods/LastPray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/hullmods/LastPray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_blue_krait.variant" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_elg.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_elg.variant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_elg_long_range.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_elg_long_range.variant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_lg.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_lg.variant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_lg_hound.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_lg_hound.variant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_lp_turtle.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_lp_turtle.variant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_tt.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_tt.variant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_tt_blue_krait.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_tt_blue_krait.variant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_tt_vivisector.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_tt_vivisector.variant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/mod_info.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +61,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Applications/Starsector.app/mods/HullModsAndSystems/data/hulls",
-    "project.structure.last.edited": "Artifacts",
+    "last_opened_file_path": "/Applications/Starsector.app/mods/starsector_lobster_ship",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"

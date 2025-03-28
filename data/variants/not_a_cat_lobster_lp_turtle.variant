@@ -1,6 +1,6 @@
 {
     "displayName": "Turtle",
-    "fluxCapacitors": 2,
+    "fluxCapacitors": 10,
     "fluxVents": 15,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster_lp",
@@ -33,9 +33,7 @@
             "mode": "LINKED",
             "weapons": {
                 "WS 006": "vulcan",
-                "WS 007": "vulcan",
-                "WS 008": "vulcan",
-                "WS 009": "vulcan"
+                "WS 007": "vulcan"
             }
         }
     ]

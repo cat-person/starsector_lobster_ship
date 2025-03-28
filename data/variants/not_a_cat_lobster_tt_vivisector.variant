@@ -1,12 +1,13 @@
 {
     "displayName": "Vivisector",
-    "fluxCapacitors": 5,
+    "fluxCapacitors": 3,
     "fluxVents": 30,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster_tt",
     "hullMods": [
         "hardenedshieldemitter",
-        "high_scatter_amp"
+        "high_scatter_amp",
+        "frontemitter"
     ],
     "quality": 0.0,
     "variantId": "not_a_cat_lobster_tt_vivisector",
@@ -17,7 +18,7 @@
             "weapons": {
                 "WS 002": "phasebeam",
                 "WS 001": "phasebeam",
-                "WS 003": "phasebeam",
+                "WS 003": "phasebeam"
             }
         },
         {
@@ -25,7 +26,7 @@
             "mode": "LINKED",
             "weapons": {
                 "WS 006": "ioncannon",
-                "WS 007": "ioncannon",
+                "WS 007": "ioncannon"
             }
         },
         {
@@ -34,8 +35,8 @@
             "weapons": {
                 "WS 004": "heavyburst",
                 "WS 005": "heavyburst",
-                "WS 008": "pdlaser",
-                "WS 009": "pdlaser"
+                "WS 009": "mininglaser",
+                "WS 008": "mininglaser"
             }
         }
     ]
