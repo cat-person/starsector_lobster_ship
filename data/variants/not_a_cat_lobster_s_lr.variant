@@ -1,15 +1,12 @@
 {
     "displayName": "LR",
     "fluxCapacitors": 0,
-    "fluxVents": 26,
+    "fluxVents": 25,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster",
     "hullMods": [
         "targetingunit",
-        "converted_hangar"
-    ],
-    "sMods": [
-        "extendedshieldemitter"
+        "hardenedshieldemitter"
     ],
     "quality": 0.0,
     "variantId": "not_a_cat_lobster_s_lr",
@@ -25,28 +22,27 @@
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 002": "hveldriver",
-                "WS 003": "hveldriver"
+                "WS 003": "hveldriver",
+                "WS 002": "hveldriver"
             }
         },
         {
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
+                "WS 007": "vulcan",
                 "WS 006": "vulcan",
-                "WS 007": "vulcan"
+                "WS 009": "vulcan",
+                "WS 008": "vulcan"
             }
         },
         {
-            "autofire": true,
+            "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 004": "gravitonbeam",
-                "WS 005": "ionbeam"
+                "WS 005": "ionbeam",
+                "WS 004": "gravitonbeam"
             }
         }
-    ],
-    "wings": [
-        "sarissa_wing"
     ]
 }

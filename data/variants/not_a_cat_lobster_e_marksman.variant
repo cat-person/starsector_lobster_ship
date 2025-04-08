@@ -1,13 +1,11 @@
 {
     "displayName": "Marksman",
-    "fluxCapacitors": 4,
-    "fluxVents": 30,
+    "fluxCapacitors": 0,
+    "fluxVents": 27,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster_e",
     "hullMods": [
-        "targetingunit"
-    ],
-    "sMods": [
+        "targetingunit",
         "converted_hangar"
     ],
     "quality": 0.0,
@@ -27,7 +25,7 @@
             "mode": "LINKED",
             "weapons": {
                 "WS 004": "gravitonbeam",
-                "WS 005": "ionbeam"
+                "WS 005": "gravitonbeam"
             }
         },
         {

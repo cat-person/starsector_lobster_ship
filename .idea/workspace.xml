@@ -6,22 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="650ccaa5-1b71-45c5-af25-4dee8c249db5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/campaign/sim_opponents.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/campaign/sim_opponents.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_e.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_e.variant" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_e_marksman.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_e_marksman.variant" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_elg.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_elg.variant" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_lg.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_lg.variant" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_lg_hound.variant" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_lp.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_lp.variant" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_lp_turtle.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_lp_turtle.variant" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_p.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_p.variant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_e_missile.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_e_missile.variant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_lg_ion.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_lg_ion.variant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_lg_so.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_lg_so.variant" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_p_widowmaker.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_p_widowmaker.variant" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_standard.variant" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_standard_gunslinger.variant" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_standard_reaper.variant" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_s_lr.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_s_lr.variant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_s_so.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_s_so.variant" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_tt.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_tt.variant" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_tt_blue_krait.variant" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_tt_vivisector.variant" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_tt_so.variant" beforeDir="false" afterPath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_tt_so.variant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/variants/not_a_cat_lobster_tt_so_scatter_amp.variant" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/world/factions/default_ship_roles.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/world/factions/default_ship_roles.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

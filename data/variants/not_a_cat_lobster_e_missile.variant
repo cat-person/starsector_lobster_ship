@@ -1,15 +1,12 @@
 {
     "displayName": "Missile",
     "fluxCapacitors": 0,
-    "fluxVents": 19,
+    "fluxVents": 21,
     "goalVariant": false,
     "hullId": "not_a_cat_lobster_e",
     "hullMods": [
         "missleracks",
-        "extendedshieldemitter"
-    ],
-    "sMods": [
-        "converted_bay"
+        "converted_hangar"
     ],
     "quality": 0.0,
     "variantId": "not_a_cat_lobster_e_missile",

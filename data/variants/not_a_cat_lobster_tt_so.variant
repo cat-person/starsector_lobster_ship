@@ -7,10 +7,6 @@
     "hullMods": [
         "safetyoverrides"
     ],
-    "sMods": [
-        "frontemitter",
-        "fluxdistributor"
-    ],
     "quality": 0.0,
     "variantId": "not_a_cat_lobster_tt_so",
     "weaponGroups": [
