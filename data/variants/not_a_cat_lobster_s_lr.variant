@@ -1,21 +1,24 @@
 {
-    "displayName": "Gunslinger",
-    "fluxCapacitors": 2,
-    "fluxVents": 18,
+    "displayName": "LR",
+    "fluxCapacitors": 0,
+    "fluxVents": 26,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster",
     "hullMods": [
         "targetingunit",
-        "hardenedshieldemitter"
+        "converted_hangar"
+    ],
+    "sMods": [
+        "extendedshieldemitter"
     ],
     "quality": 0.0,
-    "variantId": "not_a_cat_lobster_standard_gunslinger",
+    "variantId": "not_a_cat_lobster_s_lr",
     "weaponGroups": [
         {
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 001": "heavymauler",
+                "WS 001": "heavymauler"
             }
         },
         {
@@ -30,19 +33,20 @@
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 006": "railgun",
-                "WS 007": "railgun",    
+                "WS 006": "vulcan",
+                "WS 007": "vulcan"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 004": "heavyburst",
-                "WS 005": "heavyburst",
-                "WS 008": "vulcan",
-                "WS 009": "vulcan",
+                "WS 004": "gravitonbeam",
+                "WS 005": "ionbeam"
             }
         }
+    ],
+    "wings": [
+        "sarissa_wing"
     ]
 }

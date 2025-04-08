@@ -1,40 +1,42 @@
 {
-    "displayName": "Reaper",
-    "fluxCapacitors": 0,
-    "fluxVents": 21,
+    "displayName": "SO",
+    "fluxCapacitors": 2,
+    "fluxVents": 20,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster",
     "hullMods": [
-        "safetyoverrides"
+        "safetyoverrides",
+        "hardenedshieldemitter"
+    ],
+    "sMods": [
+        "extendedshieldemitter"
     ],
     "quality": 0.0,
-    "variantId": "not_a_cat_lobster_standard_reaper",
+    "variantId": "not_a_cat_lobster_s_so",
     "weaponGroups": [
         {
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 001": "chaingun",
-                "WS 002": "flak",
-                "WS 003": "flak"
+                "WS 001": "heavymg",
+                "WS 002": "chaingun",
+                "WS 003": "chaingun"
             }
         },
         {
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 004": "sabotpod",
-                "WS 005": "sabotpod",
+                "WS 004": "jackhammer",
+                "WS 005": "jackhammer"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 006": "lightdualmg",
-                "WS 007": "lightdualmg",
-                "WS 008": "vulcan",
-                "WS 009": "vulcan"
+                "WS 006": "lightmg",
+                "WS 007": "lightmg"
             }
         }
     ]

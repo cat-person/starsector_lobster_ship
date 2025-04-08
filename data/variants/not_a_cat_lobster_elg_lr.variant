@@ -1,15 +1,16 @@
 {
-    "displayName": "Sharpshooter",
+    "displayName": "LR",
     "fluxCapacitors": 4,
-    "fluxVents": 30,
+    "fluxVents": 25,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster_elg",
     "hullMods": [
         "targetingunit",
-        "advancedoptics"
+        "advancedoptics",
+        "extendedshieldemitter"
     ],
     "quality": 0.0,
-    "variantId": "not_a_cat_lobster_elg_long_range",
+    "variantId": "not_a_cat_lobster_elg_lr",
     "weaponGroups": [
         {
             "autofire": false,
@@ -22,8 +23,8 @@
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 002": "gravitonbeam",
-                "WS 003": "ionbeam"
+                "WS 002": "irautolance",
+                "WS 003": "irautolance"
             }
         },
         {
@@ -38,18 +39,18 @@
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 010": "gazer",
-                "WS 011": "gazer"
+                "WS 010": "heatseeker",
+                "WS 011": "heatseeker"
             }
         },
         {
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 004": "heavyburst",
-                "WS 005": "heavyburst",
                 "WS 008": "pdlaser",
-                "WS 009": "pdlaser"
+                "WS 009": "pdlaser",
+                "WS 004": "gravitonbeam",
+                "WS 005": "gravitonbeam"
             }
         }
     ]

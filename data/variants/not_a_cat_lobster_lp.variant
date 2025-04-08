@@ -1,13 +1,13 @@
 {
-    "displayName": "Very Mad Seadoggo",
-    "fluxCapacitors": 0,
-    "fluxVents": 24,
+    "displayName": "Standard",
+    "fluxCapacitors": 2,
+    "fluxVents": 15,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster_lp",
     "hullMods": [
-        "missleracks"
+        "missleracks",
+        "hardenedshieldemitter"
     ],
-    "sMods": [],
     "variantId": "not_a_cat_lobster_lp",
     "weaponGroups": [
         {
@@ -23,18 +23,18 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 002": "heavymg",
                 "WS 003": "heavymg",
+                "WS 002": "chaingun"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 006": "vulcan",
-                "WS 007": "vulcan",
-                "WS 008": "vulcan",
-                "WS 009": "vulcan",
+                "WS 006": "lightmg",
+                "WS 007": "lightmg",
+                "WS 008": "mininglaser",
+                "WS 009": "mininglaser"
             }
         }
     ]

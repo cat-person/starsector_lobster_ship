@@ -1,0 +1,42 @@
+{
+    "displayName": "SO",
+    "fluxCapacitors": 0,
+    "fluxVents": 17,
+    "goalVariant": true,
+    "hullId": "not_a_cat_lobster_lg",
+    "hullMods": [
+        "safetyoverrides"
+    ],
+    "sMods": [
+        "extendedshieldemitter"
+    ],
+    "quality": 0.0,
+    "variantId": "not_a_cat_lobster_lg_so",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 002": "heavyblaster",
+                "WS 003": "heavyblaster",
+                "WS 001": "heavyblaster"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "ioncannon",
+                "WS 007": "ioncannon"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 004": "sabotpod",
+                "WS 005": "sabotpod"
+            }
+        }
+    ]
+}

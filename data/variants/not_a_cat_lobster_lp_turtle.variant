@@ -1,7 +1,7 @@
 {
     "displayName": "Turtle",
-    "fluxCapacitors": 10,
-    "fluxVents": 15,
+    "fluxCapacitors": 2,
+    "fluxVents": 25,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster_lp",
     "hullMods": [
@@ -24,7 +24,7 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 002": "heavymg",
+                "WS 002": "chaingun",
                 "WS 003": "heavymg"
             }
         },
@@ -32,8 +32,8 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 006": "vulcan",
-                "WS 007": "vulcan"
+                "WS 006": "lightmg",
+                "WS 007": "lightmg"
             }
         }
     ]

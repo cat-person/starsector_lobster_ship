@@ -1,12 +1,13 @@
 {
     "displayName": "Standard",
     "fluxCapacitors": 0,
-    "fluxVents": 20,
+    "fluxVents": 28,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster_e",
     "hullMods": [
         "ballistic_rangefinder",
-        "targetingunit"
+        "targetingunit",
+        "missleracks"
     ],
     "quality": 0.0,
     "variantId": "not_a_cat_lobster_e",
@@ -15,41 +16,41 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 001": "hephag"
+                "WS 001": "hellbore"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 002": "heavyneedler",
-                "WS 003": "heavyneedler",
-                "WS 006": "railgun",
-                "WS 007": "railgun",
+                "WS 002": "heavyac",
+                "WS 003": "heavyac",
+                "WS 006": "lightac",
+                "WS 007": "lightac"
             }
         },
         {
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 004": "sabotpod",
-                "WS 005": "sabotpod",
+                "WS 004": "dragon",
+                "WS 005": "dragon"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 010": "gazer",
-                "WS 011": "gazer",
+                "WS 010": "heatseeker",
+                "WS 011": "heatseeker"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 008": "vulcan",
-                "WS 009": "vulcan",
+                "WS 008": "mininglaser",
+                "WS 009": "mininglaser"
             }
         }
     ]
