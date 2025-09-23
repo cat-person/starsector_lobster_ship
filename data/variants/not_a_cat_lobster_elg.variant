@@ -1,12 +1,12 @@
 {
     "displayName": "Pride of Andrada",
     "fluxCapacitors": 6,
-    "fluxVents": 25,
+    "fluxVents": 30,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster_elg",
     "hullMods": [
         "hardenedshieldemitter",
-        "targetingunit"
+        "missleracks"
     ],
     "quality": 0.0,
     "variantId": "not_a_cat_lobster_elg",
