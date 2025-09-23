@@ -16,7 +16,7 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 001": "hellbore"
+                "WS 001": "hephag"
             }
         },
         {
@@ -25,8 +25,8 @@
             "weapons": {
                 "WS 002": "heavyac",
                 "WS 003": "heavyac",
-                "WS 006": "lightac",
-                "WS 007": "lightac"
+                "WS 006": "railgun",
+                "WS 007": "railgun"
             }
         },
         {
