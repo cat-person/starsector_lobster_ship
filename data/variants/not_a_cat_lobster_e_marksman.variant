@@ -6,7 +6,7 @@
     "hullId": "not_a_cat_lobster_e",
     "hullMods": [
         "targetingunit",
-        "flux"
+        "fluxdistributor",
         "converted_hangar"
     ],
     "quality": 0.0,
@@ -48,9 +48,7 @@
             "mode": "LINKED",
             "weapons": {
                 "WS 006": "mininglaser",
-                "WS 007": "mininglaser",
-                "WS 008": "mininglaser",
-                "WS 009": "mininglaser"
+                "WS 007": "mininglaser"
             }
         }
     ],

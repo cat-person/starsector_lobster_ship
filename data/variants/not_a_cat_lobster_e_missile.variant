@@ -6,6 +6,7 @@
     "hullId": "not_a_cat_lobster_e",
     "hullMods": [
         "missleracks",
+        "converted_hangar"
     ],
     "quality": 0.0,
     "variantId": "not_a_cat_lobster_e_missile",
@@ -46,9 +47,9 @@
             "mode": "LINKED",
             "weapons": {
                 "WS 008": "vulcan",
-                "WS 009": "vulcan",
+                "WS 009": "vulcan"
             }
-        }
+        },
         {
             "autofire": false,
             "mode": "ALTERNATING",
@@ -57,5 +58,8 @@
                 "WS 011": "heatseeker"
             }
         },
+    ],
+    "wings": [
+        "xyphos_wing"
     ]
 }

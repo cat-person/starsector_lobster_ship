@@ -1,7 +1,7 @@
 {
     "displayName": "Missile",
     "fluxCapacitors": 0,
-    "fluxVents": 24,
+    "fluxVents": 22,
     "goalVariant": false,
     "hullId": "not_a_cat_lobster_e",
     "hullMods": [
@@ -11,7 +11,7 @@
         "unstable_injector"
     ],
     "quality": 0.0,
-    "variantId": "not_a_cat_lobster_e_missile",
+    "variantId": "not_a_cat_lobster_e_missile_sr",
     "weaponGroups": [
         {
             "autofire": false,
@@ -40,8 +40,8 @@
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 006": "lightmg",
-                "WS 007": "lightmg"
+                "WS 006": "lightdualmg",
+                "WS 007": "lightdualmg"
             }
         },
         {
@@ -49,12 +49,12 @@
             "mode": "LINKED",
             "weapons": {
                 "WS 008": "mininglaser",
-                "WS 009": "mininglaser",
+                "WS 009": "mininglaser"
             }
-        }
+        },
         {
             "autofire": false,
-            "mode": "ALTERNATING",
+            "mode": "LINKED",
             "weapons": {
                 "WS 010": "sabot",
                 "WS 011": "sabot"

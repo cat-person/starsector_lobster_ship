@@ -32,8 +32,8 @@
             "weapons": {
                 "WS 002": "heavymg",
                 "WS 003": "heavymg",
-                "WS 006": "lightmg",
-                "WS 007": "lightmg"
+                "WS 006": "lightdualmg",
+                "WS 007": "lightdualmg"
             }
         },
         {
@@ -41,9 +41,9 @@
             "mode": "LINKED",
             "weapons": {
                 "WS 008": "mininglaser",
-                "WS 009": "mininglaser",
+                "WS 009": "mininglaser"
             }
-        }
+        },
         {
             "autofire": false,
             "mode": "ALTERNATING",
