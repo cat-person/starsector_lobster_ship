@@ -1,10 +1,11 @@
 {
     "displayName": "SO",
     "fluxCapacitors": 0,
-    "fluxVents": 15,
+    "fluxVents": 25,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster_tt",
     "hullMods": [
+        "frontemitter",
         "safetyoverrides"
     ],
     "quality": 0.0,
@@ -14,13 +15,7 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 001": "chaingun"
-            }
-        },
-        {
-            "autofire": true,
-            "mode": "LINKED",
-            "weapons": {
+                "WS 001": "heavymg"
                 "WS 002": "ionpulser",
                 "WS 003": "ionpulser"
             }
@@ -29,17 +24,11 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 004": "sabotpod",
-                "WS 005": "sabotpod"
+                "WS 004": "heavyburst",
+                "WS 005": "heavyburst",
+                "WS 006": "pdburst",
+                "WS 007": "pdburst"
             }
         },
-        {
-            "autofire": true,
-            "mode": "LINKED",
-            "weapons": {
-                "WS 006": "amblaster",
-                "WS 007": "amblaster"
-            }
-        }
     ]
 }

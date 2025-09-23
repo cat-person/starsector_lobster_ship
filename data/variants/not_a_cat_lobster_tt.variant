@@ -1,12 +1,13 @@
 {
     "displayName": "Standard",
     "fluxCapacitors": 0,
-    "fluxVents": 30,
+    "fluxVents": 28 ,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster_tt",
     "hullMods": [
         "missleracks",
-        "frontemitter"
+        "frontemitter",
+        "targetingunit"
     ],
     "quality": 0.0,
     "variantId": "not_a_cat_lobster_tt",
@@ -15,27 +16,34 @@
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 001": "chaingun",
-                "WS 002": "ionpulser",
-                "WS 003": "ionpulser",
-                "WS 006": "amblaster",
-                "WS 007": "amblaster"
+                "WS 001": "heavyneedler",
+                "WS 002": "pulselaser",
+                "WS 003": "pulselaser"
+            }
+        },
+        "weaponGroups": [
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 006": "pdburst",
+                "WS 007": "pdburst"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 005": "sabotpod",
-                "WS 004": "sabotpod"
+                "WS 005": "typhoon",
+                "WS 004": "typhoon"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 008": "mininglaser",
-                "WS 009": "mininglaser"
+                "WS 008": "pdlaser",
+                "WS 009": "pdlaser"
             }
         },
     ]
