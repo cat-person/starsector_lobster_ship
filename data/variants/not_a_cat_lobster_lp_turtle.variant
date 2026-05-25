@@ -1,12 +1,14 @@
 {
     "displayName": "Turtle",
-    "fluxCapacitors": 2,
-    "fluxVents": 25,
+    "fluxCapacitors": 0,
+    "fluxVents": 12,
     "goalVariant": true,
     "hullId": "not_a_cat_lobster_lp",
     "hullMods": [
         "shield_shunt",
-        "heavyarmor"
+        "fluxbreakers",
+        "autorepair",
+        "reinforcedhull"
     ],
     "quality": 0.0,
     "variantId": "not_a_cat_lobster_lp_turtle",
@@ -16,16 +18,16 @@
             "mode": "LINKED",
             "weapons": {
                 "WS 001": "not_a_cat_sledgehammer",
-                "WS 004": "not_a_cat_sledgehammer",
-                "WS 005": "not_a_cat_sledgehammer"
+                "WS 002": "not_a_cat_sledgehammer",
+                "WS 003": "not_a_cat_sledgehammer"
             }
         },
         {
             "autofire": true,
             "mode": "LINKED",
             "weapons": {
-                "WS 002": "chaingun",
-                "WS 003": "heavymg"
+                "WS 004": "heavymg",
+                "WS 005": "heavymg"
             }
         },
         {
@@ -33,7 +35,9 @@
             "mode": "LINKED",
             "weapons": {
                 "WS 006": "lightmg",
-                "WS 007": "lightmg"
+                "WS 007": "lightmg",
+                "WS 008": "mininglaser",
+                "WS 009": "mininglaser"
             }
         }
     ]
