@@ -4,7 +4,7 @@
 	"type":"MISSILE",
 	"size":"MEDIUM",
 	"turretSprite":"graphics/weapons/not_a_cat_sledgehammer_turret.png",
-	"hardpointSprite":"graphics/weapons/not_a_cat_sledgehammer_hardpoint.png",	
+	"hardpointSprite":"graphics/weapons/not_a_cat_sledgehammer_hardpoint.png",
 	#"hardpointOffsets":[12, 5, 13, 0, 12, -5],
 	"hardpointOffsets":[13, 0],
 	#"turretOffsets":[11, 5, 12, 0, 11, -5],
@@ -24,7 +24,7 @@
 				 "blowbackDuration":2.0,
 				 "blowbackLength":22.0,
 				 "blowbackSpread":15.0,
-				 "particleColor":[100,100,100,200]},					 
+				 "particleColor":[100,100,100,200]},
 	"projectileSpecId":"hammer_torp",
 	"fireSoundTwo":"hammer_fire",
 }

@@ -1,0 +1,191 @@
+{
+    "hullName": "Lobster",
+    "hullId": "not_a_cat_lobster_xiv",
+    "hullSize": "CRUISER",
+    "style": "MIDLINE",
+    "spriteName": "graphics/ships/not_a_cat_lobster/xiv.png",
+    "height": 238,
+    "width": 158,
+    "center": [
+        79, 119
+    ],
+    "collisionRadius": 140,
+    "coversColor": "",
+    "shieldCenter": [
+        14, 0
+    ],
+    "shieldRadius": 140,
+    "viewOffset": 0,
+    "builtInMods": [
+        "fourteenth",
+        "heavyarmor",
+        "armoredweapons"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 001",
+            "size": "LARGE",
+            "type": "BALLISTIC",
+            "mount": "HARDPOINT",
+            "arc": 6,
+            "angle": 0,
+            "locations": [
+                      94,        -29.5
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "LARGE",
+            "type": "BALLISTIC",
+            "mount": "HARDPOINT",
+            "arc": 6,
+            "angle": 0,
+            "locations": [
+                      94,        29.5
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 75,
+            "locations": [
+                      55,       48
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": -75,
+            "locations": [
+                      55,      -48
+            ]
+        },
+        {
+            "id": "WS 005",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 130,
+            "locations": [
+                     -71,       28
+            ]
+        },
+        {
+            "id": "WS 006",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 230,
+            "locations": [
+                     -71,      -28
+            ]
+        },
+        {
+            "id": "WS 007",
+            "size": "SMALL",
+            "type": "MISSILE",
+            "mount": "HARDPOINT",
+            "arc": 0,
+            "angle": 90,
+            "locations": [
+                   -13.5,     33.5
+            ]
+        },
+        {
+            "id": "WS 008",
+            "size": "SMALL",
+            "type": "MISSILE",
+            "mount": "HARDPOINT",
+            "arc": 0,
+            "angle": 270,
+            "locations": [
+                   -13.5,    -33.5
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -100, 34
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -109, 12.5
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -111, -0.5
+            ],
+            "length": 80,
+            "width": 48,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -109, -12.5
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -100, -34
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        }
+    ],
+    "bounds": [
+           -61.5,    -58.5,
+             -31,    -26.5,
+            29.5,      -42,
+              18,      -68,
+              69,      -78,
+
+           115.5,        0,
+              69,       78,
+              18,       68,
+            29.5,       42,
+             -31,     26.5,
+
+           -61.5,     58.5,
+            -105,     48.5,
+            -105,       19,
+            -112,       17,
+            -112,      -17,
+
+            -105,      -19,
+            -105,    -48.5
+    # 17 points total.
+    ]
+}
