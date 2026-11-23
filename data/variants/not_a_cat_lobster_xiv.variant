@@ -1,0 +1,17 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 0,
+    "fluxVents": 28,
+    "goalVariant": true,
+    "hullId": "not_a_cat_lobster_xiv",
+    "hullMods": [
+        "ballistic_rangefinder",
+        "targetingunit",
+        "missleracks"
+    ],
+    "quality": 0.0,
+    "variantId": "not_a_cat_lobster_e",
+    "weaponGroups": [
+
+    ]
+}
