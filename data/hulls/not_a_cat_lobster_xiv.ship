@@ -2,7 +2,7 @@
     "hullName": "Lobster",
     "hullId": "not_a_cat_lobster_xiv",
     "hullSize": "CRUISER",
-    "style": "MIDLINE",
+    "style": "LOW_TECH",
     "spriteName": "graphics/ships/not_a_cat_lobster/xiv.png",
     "height": 238,
     "width": 158,
