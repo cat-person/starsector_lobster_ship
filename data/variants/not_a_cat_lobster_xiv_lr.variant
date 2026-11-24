@@ -1,0 +1,48 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 0,
+    "fluxVents": 28,
+    "goalVariant": true,
+    "hullId": "not_a_cat_lobster_xiv_lr",
+    "hullMods": [
+        "targetingunit",
+        "hardenedshieldemitter",
+        "frontemitter"
+    ],
+    "quality": 0.0,
+    "variantId": "not_a_cat_lobster_xiv",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "gauss",
+                "WS 002": "gauss"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 003": "flak",
+                "WS 004": "flak"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 005": "mininglaser",
+                "WS 006": "mininglaser"
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 007": "heatseeker",
+                "WS 008": "heatseeker"
+            }
+        },
+    ]
+}
