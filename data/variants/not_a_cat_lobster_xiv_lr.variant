@@ -3,14 +3,14 @@
     "fluxCapacitors": 0,
     "fluxVents": 28,
     "goalVariant": true,
-    "hullId": "not_a_cat_lobster_xiv_lr",
+    "hullId": "not_a_cat_lobster_xiv",
     "hullMods": [
         "targetingunit",
         "hardenedshieldemitter",
         "frontemitter"
     ],
     "quality": 0.0,
-    "variantId": "not_a_cat_lobster_xiv",
+    "variantId": "not_a_cat_lobster_xiv_lr",
     "weaponGroups": [
         {
             "autofire": false,
